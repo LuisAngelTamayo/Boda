@@ -1,13 +1,13 @@
 // Initialize Cloud Firestore through Firebase
 firebase.initializeApp({
-    apiKey: "AIzaSyDIbnxUwFjVrilATMYUOmgVhUehvQjGYiA",
-    authDomain: "boda-817d3.firebaseapp.com",
-    databaseURL: "https://boda-817d3.firebaseio.com",
-    projectId: "boda-817d3",
-    storageBucket: "boda-817d3.appspot.com",
-    messagingSenderId: "124094975010",
-    appId: "1:124094975010:web:20ebc183eddbe23c77ce7b",
-    measurementId: "G-5F56545BCE"
+    apiKey: "mgVhUehvQjGYiA",
+    authDomain: "",
+    databaseURL: ".firebaseio.com",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "10",
+    appId: "e7b",
+    measurementId: "CE"
 });
   
 var db = firebase.firestore();
